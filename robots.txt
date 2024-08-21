@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: ssh://angelayusonlee.github.io/angelayusonlee.github.io//sitemap.xml
+Sitemap: https://angelayusonlee.github.io/angelayusonlee.github.io//sitemap.xml
